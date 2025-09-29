@@ -1,6 +1,6 @@
 {
   "name": "3dportfolio",
-  "homepage": "https://DuvvuLakshmiPrasanna.github.io/PrasannaPortfolio",
+  "homepage": "https://DuvvuLakshmiPrasanna.github.io/Prasanna_Portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --dotfiles"
+    "deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
